@@ -5,3 +5,5 @@
 First React-Native project to get a bit of experience with react :-) 
 
 <img src="preview.gif" width="250">
+
+ahoi
